@@ -2,7 +2,7 @@
 
 ◆ Some features
 
-▷ QMK & VIAL
+▷ QMK & VIAL ( https://get.vial.today )
 
 ▷ Cherry PCB-stab support
 
